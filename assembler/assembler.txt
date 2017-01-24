@@ -1,0 +1,4 @@
+Assembler proqramlasd?rma dili
+
+        Assembler proqramlasd?rma dili asag? s?viyy?li bir dildir, C, C++, Pascal, Basic kimi yuks?k s?viyy?li dill?r? nisb?t?n  oyr?nilm?si c?tindir. Assembler dili il? proqram yazark?n komputerin fiziki xususiyy?tl?ri proqramc? ucun on?mlidir. Yaz?lan kodlar komputerin cihaz?na uygun yaz?l?r ki, bu da proqram?n das?nabil?rliyini azaldan bir faktordur. Assembler dili il? proqram yazark?n proqramc? komputerin prosessor v? yaddas? il? m?sgul olur.
+        Asseembler dili il? yaz?lan proqramlar?n oz?lliyi odur ki, yuks?k s?viyy?li dil il? yaz?lan proqrama nisb?t?n h?cmi az olur v? sur?tli isl?yir. Proqram?n sur?tli isl?m?si kodlar?n sad?liyind?n qaynaqlan?r.
