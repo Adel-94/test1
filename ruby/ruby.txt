@@ -1,0 +1,17 @@
+Ruby dilinin t?m?ll?ri 1993 -cu ild? at?lm?sd?r.
+?sas ustunlukl?ri asag?dak?lard?r:
+1) 4 f?rqli  tipd?  d?yis?n t?yin oluna bil?r: Global, class, instance ve local
+2) X?ta v? istisna r?hb?rliyi 
+3) Cox yuks?k das?nabilm?
+4) Genis kitabxana d?st?yi  (YAML, JSON, XML, CGI, OpenSSL, HTTP, FTP, RSS) 
+5)  Cox boyuk rasional qiym?tl?rl? isl?y? bilm?k 
+
+
+Ruby dili bir cox ?m?liyyat sistemi il? isl?m?k imkan?na malikdir.
+1) Dem?k olar ki , butun Unix tor?m?l?ri 
+2) Microsoft platformalar? ((DOS, Windows 95/98/XP/NT/2000/2003/Vista/7/8/8.1/10) 
+3) Mac OS X
+4) BeOS
+5) Amiga
+6) OS/2
+7) Symbian
