@@ -1,0 +1,14 @@
+
+        C proqramlasd?rma dili orta s?viyy?li dildir. 1972-ci ild? Dennis Ritchie t?r?find?n Bell Laboratoriyas?nda Unix ?m?liyyat sistemini yaratmaq ucun B dilind?n tor?nmis dildir. C dili h?m d? mas?n dilin? yax?n bir dildir. Gunumuzd?ki bir cox proqram?n v? ?m?liyyat sisteminin t?m?lidir. C dili mas?n dilin? yax?n olmas? s?b?bi il? dig?r proqramlasd?rma dill?rin? gor? c?tindir, ancaq yuks?k sur?tl? isl?yir. Bir cox cihazlar?n driverl?ri, h?m d? kompilyatorlar C dili il? yaz?lm?sd?r.     
+        C dilinin yay?lmas? v? inkisaf?, boyuk bir hiss?si C dili il? yaz?lan UNIX ?m?liyyat sisteminin populyar olmas?na bagl?d?r. Bu dil h?r yerd? istifad? edilm?kd?dir.
+        Obyekt yonlu proqramlasd?rma dill?r (C++, Java) v? script dill?r (JavaScript, YavaApplet, PHP) kimi dill?r C dilind?n tor?nmisdir.
+        C dili das?nabil?n (portable) bir dildir. Y?ni h?r hans? bir C proqram? d?yisiklik olmadan, ya da cox az bir d?yisiklik olmaqla dig?r ?m?liyyat sisteml?rind? d? isl?y? bilir.
+
+C proqramlasd?rma dilini ustunlukl?ri:
+C guclu v? sur?tli bir dildir.  C dili il? ?m?liyyat sistemi, kompilyator yazmaq olur v? qrafik imkanlar?na malikdir.
+C dili guclu v? sur?tl? isl?y?n proqram yazmaq olur.
+C dili xususi komanda v? veril?nl?r tipinin tan?nmas?na icaz? verir.
+C das?nabil?r bir dildir.
+C inkisaf?n? tamamlam?s v? standart olmus bir dildir.
+C strukturlu dildir. C kodlar?, funksiya olarak adland?r?lan alt proqramlardan ibar?tdir.
+C dilinin ustunlukl?ri il? yanas?, proqramc?ya cox boyuk x?talar verm? ehtimal?da var.
