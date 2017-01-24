@@ -1,0 +1,7 @@
+JavaScript – internet s?hif?l?rin yarad?lmas?nda genis istifad? olunan proqramlsd?rma dilidir. JavaScript muxt?lif dilll?rd?n ilhamlanaraq yarad?lm?sd?r. 1995-ci il? Brendan Eyx t?r?find?n yaz?lm?sd?r. JavaScript Obyekt? Yonumlu Proqramlasd?rma (OYP) dilidir. Obyekt? Yonumlu Proqramlasd?rma movzusu kifay?t q?d?r mur?kk?b proqramlasd?rmad?r.JavaScript - HTML s?hif?y? inteqrasiya olunaraq, bu s?hif? il? istifad?ci aras?ndak? interfeys? ?lav? funksional imkanlar ver?n alqoritmik dildir.
+JavaScript muasir veb texnologiys? olmaqla, asag?dak? imkanlar? realiz? etm?y? imkan verir:
+
+1) dinamik yeni HTML s?hif?l?r yaratmaga,
+2) movcud HTML s?hif?y? dinamiklik verm?y?,
+3) dinamik foto-qalereyan? yaratmaga,
+4) yerli tarix v? zamandan as?l? olaraq mu?yy?n ssenaril?ri yerin? yetirm?y? v? s. 
